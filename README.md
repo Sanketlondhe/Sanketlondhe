@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m a Java Developer with 3.5+ years of experience in the software industry.<br>I hold a Master of Computer Applications (MCA) and currently work on building scalable backend systems using Java and the Spring ecosystem.<br><br>💡 My expertise includes Core Java, Spring Framework, Spring Boot, Hibernate, Spring Data JPA, and Microservices architecture. I have hands-on experience in developing RESTful APIs, implementing multithreading concepts, and working with PostgreSQL databases.<br><br>🚀 I enjoy writing clean, maintainable code and continuously learning modern backend technologies to build reliable and high-performance applications.
+👋 Hi, I’m a Java Developer with 3+ years of experience in the software industry.<br>I hold a Master of Computer Applications (MCA) and currently work on building scalable backend systems using Java and the Spring ecosystem.<br><br>💡 My expertise includes Core Java, Spring Framework, Spring Boot, Hibernate, Spring Data JPA, and Microservices architecture. I have hands-on experience in developing RESTful APIs, implementing multithreading concepts, and working with PostgreSQL databases.<br><br>🚀 I enjoy writing clean, maintainable code and continuously learning modern backend technologies to build reliable and high-performance applications.
 
 
 ## 🌐 Socials:
